@@ -13,4 +13,5 @@ My main goal is to develop a strong foundation in programming and web developmen
 
 
 
-![GitHub Stats](https://github.com/favlh/github-stats-transparent/output/generated/github-stats.svg)
+![GitHub Stats](https://github.com/favlh/github-stats-transparent/output/generated/languages.svg)
+![GitHub Stats](https://github.com/favlh/github-stats-transparent/output/generated/overview.svg)
