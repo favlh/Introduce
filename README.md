@@ -11,7 +11,5 @@ Although I haven't worked on any projects yet, I'm dedicated to building my know
 #My Goals
 My main goal is to develop a strong foundation in programming and web development. I aim to eventually contribute to the tech community and work on real projects. I'm committed to continuous learning and growth. 🌟🙌
 
-
-
 ![GitHub Stats](https://github.com/favlh/github-stats-transparent/raw/output/generated/languages.svg)
 ![GitHub Stats](https://github.com/favlh/github-stats-transparent/raw/output/generated/overview.svg)
